@@ -4,14 +4,17 @@
 
 A Thai localization mod for the Windows version of **Don't Escape: 4 Days to Survive**. It covers menus, UI, dialogue, items, documents, journal entries, puzzle text, New Game+, and supported ending/credits text. Two Thai font modes are included: **Pixel** and **Smooth**.
 
-> **Version 1.0.0** — tested through a complete playthrough and multiple QA passes. Some wording, line breaks, or layouts may still be refined in future updates.
+> **Version 1.0.1** — hotfixes Thai text vertical positioning on the Day 1 Toxic Gas drone screen in both Pixel and Smooth font modes.
+
+[![Download Thai Mod v1.0.1](https://img.shields.io/badge/Download_Thai_Mod-v1.0.1-1f6feb?style=for-the-badge)](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases/download/v1.0.1/DontEscape4Days_ThaiMod_v1.0.1.zip)
+[![Download BepInEx 5.4.23.5 x86](https://img.shields.io/badge/Download_BepInEx-5.4.23.5_x86-6f42c1?style=for-the-badge)](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x86_5.4.23.5.zip)
 
 [ภาษาไทย](README.md)
 
 ## Release status
 
-- Version: **1.0.0**
-- Status: **Initial Public Release**
+- Version: **1.0.1**
+- Status: **Public Hotfix Release**
 - Tested platform: **Windows**
 - Mod loader: **BepInEx 5.4.23.5 x86**
 - Original game: **Required; users must own a legitimate copy**
@@ -50,11 +53,11 @@ BepInEx and the original game are not included.
 
 ## Download and install
 
-Download `DontEscape4Days_ThaiMod_v1.0.0.zip` from the [Releases page](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases). Do not use GitHub's automatically generated “Source code” archives; they are not the mod installer.
+Download `DontEscape4Days_ThaiMod_v1.0.1.zip` using the button above or from the [Releases page](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases). Do not use GitHub's automatically generated “Source code” archives; they are not the mod installer.
 
 1. Close the game.
 2. Install BepInEx 5.4.23.5 **x86** in the game directory.
-3. Copy the ZIP's `BepInEx` folder into the game directory and merge folders.
+3. Copy the v1.0.1 ZIP's `BepInEx` folder into the game directory and merge folders.
 4. Confirm that these files exist:
    - `BepInEx/plugins/DontEscapeThaiMod/DontEscapeThaiMod.dll`
    - `BepInEx/config/tafo.dontescape4.thai.renderer.cfg`
@@ -74,7 +77,7 @@ Do not delete the entire BepInEx folder because other mods may use it.
 
 ## Notes
 
-No release-blocking issue was found during the v1.0.0 test pass. Minor wording, line-break, or layout refinements may still be made in later updates.
+No release-blocking issue was found during the v1.0.1 test pass. Minor wording, line-break, or layout refinements may still be made in later updates.
 
 ## Troubleshooting and bug reports
 

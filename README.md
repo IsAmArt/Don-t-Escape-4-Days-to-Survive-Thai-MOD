@@ -4,14 +4,17 @@
 
 มอดภาษาไทยสำหรับ **Don't Escape: 4 Days to Survive** ครอบคลุมเมนู UI บทสนทนา ไอเทม เอกสาร สมุดบันทึก ข้อความปริศนา New Game+ และข้อความในฉากจบ/เครดิตที่รองรับ พร้อมฟอนต์ไทยให้เลือก 2 รูปแบบ
 
-> **เวอร์ชัน 1.0.0** — ผ่านการทดสอบเล่นจริงตั้งแต่ต้นจนจบและการตรวจ QA ในหลายๆ ส่วนแล้ว แต่ยังมีข้อความบางจุดอาจยังปรับปรุงถ้อยคำ การตัดบรรทัด หรือการจัดวางในอนาคต
+> **เวอร์ชัน 1.0.1** — Hotfix สำหรับตำแหน่งข้อความไทยในหน้าจอโดรนก๊าซพิษ Day 1 ทั้งฟอนต์ Pixel และ Smooth
+
+[![ดาวน์โหลดมอดภาษาไทย v1.0.1](https://img.shields.io/badge/ดาวน์โหลดมอดภาษาไทย-v1.0.1-1f6feb?style=for-the-badge)](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases/download/v1.0.1/DontEscape4Days_ThaiMod_v1.0.1.zip)
+[![ดาวน์โหลด BepInEx 5.4.23.5 x86](https://img.shields.io/badge/ดาวน์โหลด_BepInEx-5.4.23.5_x86-6f42c1?style=for-the-badge)](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x86_5.4.23.5.zip)
 
 [English README](README_EN.md)
 
 ## สถานะรุ่น
 
-- Version: **1.0.0**
-- Status: **Initial Public Release**
+- Version: **1.0.1**
+- Status: **Public Hotfix Release**
 - Game: **Don't Escape: 4 Days to Survive** (ผู้ใช้ต้องมีเกมต้นฉบับอย่างถูกต้อง)
 - Platform tested: **Windows**
 - Mod loader: **BepInEx 5.4.23.5 x86**
@@ -55,7 +58,7 @@
 
 ## ดาวน์โหลด
 
-ดาวน์โหลดไฟล์ `DontEscape4Days_ThaiMod_v1.0.0.zip` จากหน้า [Releases](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases) เท่านั้น
+ดาวน์โหลดไฟล์ `DontEscape4Days_ThaiMod_v1.0.1.zip` จากปุ่มด้านบนหรือหน้า [Releases](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases) เท่านั้น
 
 > อย่าดาวน์โหลดไฟล์ **Source code (zip)** หรือ **Source code (tar.gz)** ที่ GitHub สร้างให้อัตโนมัติ เพราะไฟล์เหล่านั้นไม่ใช่ชุดติดตั้งมอด
 
@@ -63,7 +66,7 @@
 
 1. แตกไฟล BepInEx 5.4.23.5 **x86** ลงในโฟลเดอร์หลักของเกมให้เรียบร้อย
 2. เปิดเกม เมื่อถึงหน้าเมนูเริ่มเกม ให้ออกจากเกม 1 รอบ
-3. เปิดไฟล์ `DontEscape4Days_ThaiMod_v1.0.0.zip`
+3. เปิดไฟล์ `DontEscape4Days_ThaiMod_v1.0.1.zip`
 4. คัดลอกโฟลเดอร์ `BepInEx` ภายใน ZIP ไปวางในโฟลเดอร์หลักของเกม
 5. เปิดดเกม ไปที่ **Options > Language** แล้วเลือก **ภาษาไทย**
 6. เลือก **Pixel** หรือ **Smooth** ที่ **Options > Font** ตามต้องการ
@@ -98,7 +101,7 @@ BepInEx/
 
 ## หมายเหตุ
 
-มอดรุ่นนี้ผ่านการทดสอบเล่นจนจบและ QA ด้วยตัวผมเองแล้วในระดับหนึ่ง และไม่พบปัญหาระดับ blocker ในการทดสอบ v1.0.0 
+มอดรุ่นนี้ผ่านการทดสอบเล่นจนจบและ QA ด้วยตัวผมเองแล้วในระดับหนึ่ง และไม่พบปัญหาระดับ blocker ในการทดสอบ v1.0.1
 อย่างไรก็ตาม ยังมีจุดตัดบรรทัด ถ้อยคำ/บริบท หรือการจัดวางขนาดเล็กบางตำแหน่งที่ยังตกหล่น ยังต้องงปรับปรุงแก้ไขเพิ่มเติมต่อไปใน mod รุ่นต่อไป
 
 ## การแก้ปัญหา

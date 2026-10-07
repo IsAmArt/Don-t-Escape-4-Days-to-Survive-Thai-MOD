@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.1 — 2026-10-07
+
+- Fixed Thai text vertical positioning on the Day 1 Toxic Gas drone screen.
+- Applies to both Pixel and Smooth Thai font modes.
+- No translation or font atlas changes.
+
 ## v1.0.0 — 2026-10-05
 
 - Initial public release of the Thai localization mod.
