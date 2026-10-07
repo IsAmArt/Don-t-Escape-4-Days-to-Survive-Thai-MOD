@@ -58,7 +58,7 @@
 
 ## ดาวน์โหลด
 
-ดาวน์โหลดไฟล์ `DontEscape4Days_ThaiMod_v1.0.1.zip` จากปุ่มด้านบนหรือหน้า [Releases](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases) เท่านั้น
+ดาวน์โหลดไฟล์ `DontEscape4Days_ThaiMod_v1.0.1.zip` จากปุ่มด้านบนหรือหน้า [Releases](https://github.com/IsAmArt/Don-t-Escape-4-Days-to-Survive-Thai-MOD/releases)
 
 > อย่าดาวน์โหลดไฟล์ **Source code (zip)** หรือ **Source code (tar.gz)** ที่ GitHub สร้างให้อัตโนมัติ เพราะไฟล์เหล่านั้นไม่ใช่ชุดติดตั้งมอด
 
